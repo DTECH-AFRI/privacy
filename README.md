@@ -4,11 +4,12 @@ This repository contains the privacy policy and privacy-related documentation fo
 
 ## Overview
 
-DTech-Africa is committed to protecting the privacy and security of our users' personal information. This repository provides comprehensive privacy documentation that outlines how we collect, use, and protect user data.
+DTech-Africa is committed to protecting the privacy and security of our users' personal information. This repository provides comprehensive privacy documentation that outlines how we collect, use, and protect user data across all our services.
 
 ## Documentation
 
 - **[Privacy Policy](PRIVACY.md)** - Our complete privacy policy document that describes how we handle user information
+- **[Data Deletion Request](DATA-DELETION.md)** - Instructions for requesting deletion of your personal data
 
 ## Purpose
 
