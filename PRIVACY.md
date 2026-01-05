@@ -113,7 +113,7 @@ We process your personal information under the following legal bases:
 
 ## Cookie Policy
 
-Our Services may use cookies and similar tracking technologies. You can control cookies through your browser settings. For more information about how we use cookies, please refer to our Cookie Policy (if applicable).
+Our Services may use cookies and similar tracking technologies to enhance user experience and analyze usage patterns. You can control cookies through your browser settings and opt-out of certain tracking technologies.
 
 ## Third-Party Links
 
